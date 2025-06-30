@@ -46,12 +46,6 @@ ENV/
 ehthumbs.db
 Thumbs.db
 
-# Data files
-*.csv
-*.xls
-*.xlsx
-*.db
-*.sqlite3
 
 # Log files
 *.log
